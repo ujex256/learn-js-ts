@@ -6,11 +6,11 @@ for (let i = 0;i < 5; i++) {
 const roopString = "あいうえお"
 const roopArr = [...roopString]
 for (const elem of roopArr) {
-    console.log(elem);
+    console.log(elem)
 }
 
 function randInt(min, max) {
-    return Math.random() * (max - min) + min;
+    return Math.random() * (max - min) + min
 }
 // const randInt = (min, max) => { return Math.random() * (max - min) + min }
 

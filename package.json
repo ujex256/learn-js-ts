@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ジャヴァスクリプトを学ぶ会",
   "main": "helloworld.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
